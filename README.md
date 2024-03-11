@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rise Sejong Teacher's Site (large screen)](https://risesj.netlify.app/)
 
-- 🌱 I’m currently learning **React, Node, MongoDB**
+- 🌱 I’m currently pushing **React, Node, MongoDB**
 
 - 👯 I’m looking to collaborate on **Any MERN Projects**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://charliej.netlify.app/](https://charliej.netlify.app/)
 
-- 📝 I regularly write articles on [https://noobslearn.hashnode.dev/](https://noobslearn.hashnode.dev/)
+- 📝 I regularly write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)
 
 - 💬 Ask me about **Collaborating and Networking**
 
