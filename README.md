@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [Rise Sejong Teacher's Site (large screen)](https://risesj.netlify.app/)
 
-- 🌱 I’m currently pushing **React, Node, MongoDB**
+- 🌱 I’m currently pushing **Solidity, React, Node, MongoDB**
 
-- 👯 I’m looking to collaborate on **Any MERN Projects**
+- 👯 I’m looking to collaborate on **Any Web3 or MERN Projects**
 
 - 🤝 I’m looking for help with **Networking & Continuous Development**
 
-- 👨‍💻 All of my projects are available at [https://charliej.netlify.app/](https://charliej.netlify.app/)
+- 👨‍💻 My portfolio is at [https://charliej.netlify.app/](https://charliej.netlify.app/)
 
 - 📝 I regularly write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)
 
 - 💬 Ask me about **Collaborating and Networking**
 
-- 📫 How to reach me **victoriaeld24@gmail.com**
+- 📫 How to reach me **charliej.dev@outlook.com**
 
 - ⚡ Fun fact **I have 3 cats!**
 
