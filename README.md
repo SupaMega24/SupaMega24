@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rise Sejong Teacher's Site (large screen)](https://risesj.netlify.app/)
 
-- 🌱 I’m currently pushing **Solidity, React, Node, MongoDB**
+- 🌱 I’m currently pushing **Solidity, React, Node, Foundry**
 
 - 👯 I’m looking to collaborate on **Any Web3 or MERN Projects**
 
