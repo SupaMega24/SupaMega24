@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A dedicated software engineer</h3>
 
-- 🔭 I’m currently working on [Rise Sejong Teacher's Site (large screen)](https://risesj.netlify.app/)
+- 🔭 I’m currently working on [Run Bro (move to earn)](https://frontend-nuzi.onrender.com/companies)
 
 - 🌱 I’m currently pushing **Solidity, React, Node, Foundry**
 
