@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Networking & Continuous Development**
 
-- 👨‍💻 My portfolio is at [https://charliej.netlify.app/](https://charliej.netlify.app/)
+- 👨‍💻 My portfolio is **currently being updated** 
 
 - 📝 I regularly write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)
 
