@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">My Projects</h3>
+<h3 align="left">My Solidity and Foundry Projects</h3>
 
 <a href='https://github.com/ChainlinkHackaton/SmartContracts' target="_blank">
   <img
