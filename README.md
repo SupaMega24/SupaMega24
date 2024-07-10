@@ -76,6 +76,31 @@
 
 ###
 
+<h3 align="left">My Projects</h3>
+
+<a href='https://github.com/ChainlinkHackaton/SmartContracts' target="_blank">
+  <img
+    src="https://github.com/SupaMega24/SupaMega24/assets/138974329/473afe9c-a92f-4522-aac5-2b7b4d8fab38"
+    width="200"
+    height="200"
+  /> </a>
+
+<a href='https://github.com/SupaMega24/fantasy-team-vrf' target="_blank">
+  <img
+    src="https://github.com/SupaMega24/SupaMega24/assets/138974329/a5d84f36-d3d0-47f0-9182-d533384304c7"
+    width="200"
+    height="200"
+  /></a>
+
+<a href='https://github.com/SupaMega24/smart-contract-lottery' target="_blank">
+  <img
+    src="https://github.com/SupaMega24/SupaMega24/assets/138974329/73dee00f-ca52-44b0-a5a3-353229ba3c6d"
+    width="200"
+    height="200"
+  /></a>
+
+###
+
 <h3 align="left">You can find me here!</h3>
 
 ###
