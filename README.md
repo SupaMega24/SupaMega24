@@ -1,40 +1,99 @@
-<h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">A dedicated software engineer</h3>
+<h2 align="left">Hi 👋! My name is Charlie and I'm a Smart Contract Developer from USA living in APAC.</h2>
 
+###
 
-- 🔭 I’m currently working on [Run Bro (move to earn)](https://frontend-nuzi.onrender.com/companies)
+<h3 align="left">On a personal level, I enjoy these things.</h3>
 
-- 🌱 I’m currently pushing **Solidity, React, Node, Foundry**
+###
 
-- 👯 I’m looking to collaborate on **Any Web3 or MERN Projects**
+<img align="left" height="150" src="https://img.goodfon.com/original/2880x1800/3/36/wallpaper-sport-logo-baseball-glitter-checkered-mlb-los-ange.jpg"  />
 
-- 🤝 I’m looking for help with **Networking & Continuous Development**
+###
 
-- 👨‍💻 My portfolio is **currently being updated** 
+<img align="left" height="150" src="https://lavinya.net/wp-content/uploads/2021/12/ff348c-sebinkarahisarda-kamp-1280x960.jpeg"  />
 
-- 📝 I regularly write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)
+###
 
-- 💬 Ask me about **Collaborating and Networking**
+<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnaUCnWGylQbZ-RS5SBt3chLIqFjetL6qNxw&s"  />
 
-- 📫 How to reach me **charliej.dev@outlook.com**
+###
 
-- ⚡ Fun fact **I have 3 cats!**
+<img align="left" height="150" src="https://attic.sh/crtjg7yq4x8u4mslr5wa6m7xz1zx"  />
 
+###
 
-<a href="https://twitter.com/charliej_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noobslearn_code" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charliej24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charliej24" height="30" width="40" /></a>
-<a href="https://hashnode.com/@CharlieJ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@noobslearn" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left">- 🔭 I’m currently working on Run Bro (a move to earn web3 dApp)<br><br>- 🌱 I’m currently pushing **Solidity, React, Node, Foundry**<br><br>- 👯 I’m looking to collaborate on **Web3 Projects**<br><br>- 🤝 I’m looking for help with **Networking & Continuous Development**<br><br>- 👨‍💻 My portfolio is **currently being updated** <br><br>- 📝 I sometimes write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)<br><br>- 📫 How to reach me **charliej.dev@outlook.com**<br><br>- ⚡ Fun fact **I have 2 cats!**</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supamega24&show_icons=true&locale=en&layout=compact" alt="supamega24" /></p>
+###
 
-### 🐍 &nbsp;That's How Commits move ...
+<h3 align="left">My Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="solidity logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=remix" height="50" alt="remix logo"  />
+</div>
+
+###
+
+<h3 align="left">You can find me here!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/charliej24/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/charliej_dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9D%95%8F&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Commits on the Move!</h3>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://github.com/SupaMega24/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/SupaMega24/SupaMega24/output/snake.svg" alt="Snake animation" /></a>
 </div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SupaMega24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SupaMega24&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
