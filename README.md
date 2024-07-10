@@ -6,19 +6,15 @@
 
 ###
 
-<img align="left" height="150" src="https://img.goodfon.com/original/2880x1800/3/36/wallpaper-sport-logo-baseball-glitter-checkered-mlb-los-ange.jpg"  />
-
-###
-
-<img align="left" height="150" src="https://lavinya.net/wp-content/uploads/2021/12/ff348c-sebinkarahisarda-kamp-1280x960.jpeg"  />
-
-###
-
 <img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnaUCnWGylQbZ-RS5SBt3chLIqFjetL6qNxw&s"  />
 
 ###
 
 <img align="left" height="150" src="https://attic.sh/crtjg7yq4x8u4mslr5wa6m7xz1zx"  />
+
+###
+
+<img align="left" height="150" src="https://img.goodfon.com/original/2880x1800/3/36/wallpaper-sport-logo-baseball-glitter-checkered-mlb-los-ange.jpg"  />
 
 ###
 
@@ -81,19 +77,13 @@
 
 ###
 
-
-
-<div align="center">
-  <a href="https://github.com/SupaMega24/">
-  <img src="https://raw.githubusercontent.com/SupaMega24/SupaMega24/output/snake.svg" alt="Snake animation" /></a>
-</div>
-
+<br clear="both">
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SupaMega24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SupaMega24&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SupaMega24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SupaMega24&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
