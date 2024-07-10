@@ -81,7 +81,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <a href="https://github.com/SupaMega24/">
