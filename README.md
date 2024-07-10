@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<p align="left">I'm a former global business English coach turned web3 developer with a unique story and a burning passion for coding. My journey into the tech world started unexpectedly when I was helping a client solve a problem and stumbled upon the fascinating world of programming. It didn't take long before I was completely hooked, especially on the revolutionary potential of web3.<br><br>Like many, I faced significant challenges when the COVID-19 pandemic hit. My business, which I had poured my heart and soul into, was severely impacted. But rather than let this setback define me, I decided to seize the opportunity to pivot and turn my newfound passion into a career.<br><br>Since then, I've immersed myself in the world of web3 development, diving deep into blockchain technology and smart contracts. I'm committed to leveraging my skills to contribute to innovative projects that shape the future of the internet.<br><br>Now, I'm on the lookout for exciting opportunities to bring my unique perspective and dedication to a forward-thinking team. Let's build something amazing together!</p>
+
+###
+
 <h3 align="left">On a personal level, I enjoy these things.</h3>
 
 ###
