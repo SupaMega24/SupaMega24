@@ -20,7 +20,19 @@
 
 <br clear="both">
 
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
 <p align="left">- 🔭 I’m currently working on Run Bro (a move to earn web3 dApp)<br><br>- 🌱 I’m currently pushing **Solidity, React, Node, Foundry**<br><br>- 👯 I’m looking to collaborate on **Web3 Projects**<br><br>- 🤝 I’m looking for help with **Networking & Continuous Development**<br><br>- 👨‍💻 My portfolio is **currently being updated** <br><br>- 📝 I sometimes write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)<br><br>- 📫 How to reach me **charliej.dev@outlook.com**<br><br>- ⚡ Fun fact **I have 2 cats!**</p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
@@ -29,31 +41,31 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="solidity logo"  />
+  <img src="https://skillicons.dev/icons?i=solidity" height="35" alt="solidity logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="35" alt="markdown logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=remix" height="50" alt="remix logo"  />
+  <img src="https://skillicons.dev/icons?i=remix" height="35" alt="remix logo"  />
 </div>
 
 ###
@@ -64,20 +76,22 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/charliej24/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/charliej_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9D%95%8F&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=%F0%9D%95%8F&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="30" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">Commits on the Move!</h3>
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
-<br clear="both">
+<h3 align="left">Commits on the Move!</h3>
 
 ###
 
