@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on Run Bro (a move to earn web3 dApp)<br><br>- 🌱 I’m currently pushing **Solidity, React, Node, Foundry**<br><br>- 👯 I’m looking to collaborate on **Web3 Projects**<br><br>- 🤝 I’m looking for help with **Networking & Continuous Development**<br><br>- 👨‍💻 My portfolio is **currently being updated** <br><br>- 📝 I sometimes write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)<br><br>- 📫 How to reach me **charliej.dev@outlook.com**<br><br>- ⚡ Fun fact **I have 2 cats!**</p>
+<p align="left">- 🔭 I’m currently working on Run Bro (a move to earn web3 dApp)<br><br>- 🌱 I’m currently pushing Solidity, React, Node, Foundry<br><br>- 👯 I’m looking to collaborate on Web3 Projects<br><br>- 🤝 I’m looking for help with Networking & Continuous Development<br><br>- 👨‍💻 My portfolio is currently being updated <br><br>- 📝 I sometimes write articles on [https://charliej.hashnode.dev/](https://charliej.hashnode.dev/)<br><br>- 📫 How to reach me charliej.dev@outlook.com<br><br>- ⚡ Fun fact I have 2 cats!</p>
 
 ###
 
