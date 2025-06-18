@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on technical content for <a href="https://www.cyfrin.io/" target="_blank">Cyfrin</a><br><br>- 🌱 I’m currently pushing Solidity, React, Node, Foundry<br><br>- 👯 I’m looking to collaborate on Web3 Projects<br><br>- 🤝 I’m looking for help with Networking & Continuous Development<br><br>- 👨‍💻 My portfolio is https://charliej.vercel.app/ <br><br>- 📝 I sometimes write articles on https://charliej.hashnode.dev/<br><br>- 📫 How to reach me charliej.dev@outlook.com<br><br>- ⚡ Fun fact I have 2 cats!</p>
+<p align="left">- 🔭 I’m currently working on technical content for <a href="https://www.cyfrin.io/" target="_blank">Cyfrin</a><br><br>- 🌱 I’m currently pushing Solidity, React, Node, Foundry<br><br>- 👯 I’m looking to collaborate on Web3 Projects<br><br>- 🤝 I’m looking for help with Networking & Continuous Development<br><br>- 👨‍💻 My portfolio is https://charliej.vercel.app/ <br><br>- 📝 I write articles on https://fluentdev.vercel.app/<br><br>- 📫 How to reach me charliej.dev@outlook.com<br><br>- ⚡ Fun fact I have 2 cats!</p>
 
 ###
 
