@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Charlie and I'm a Smart Contract Developer/Web3 Content Writer from USA living in APAC.</h2>
+<h2 align="left">Hi 👋! My name is Charlie and I'm a Web3 Technical Content Writer from USA, currently living in East Asia.</h2>
 
 ###
 
