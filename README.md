@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Charlie and I'm a Web3 Technical Content Writer from USA, currently living in East Asia.</h2>
+<h2 align="left">Hi 👋! My name is Charlie and I'm a Web3 Content & Education Lead.</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">I’m a Web3 technical writer and former global business English consultant with a unique blend of communication expertise and blockchain knowledge. My transition into Web3 began during a client project, where solving a technical problem sparked a deep curiosity about smart contracts and decentralized systems.<br><br>Since then, I’ve written technical content for developers, learners, and end users, covering everything from Ethereum transactions and Account Abstraction to DeFi protocols like Uniswap and Aave. I’ve contributed to educational platforms and projects such as Cyfrin and launched my own Web3-focused ESL course, FluentDev, to support global developers navigating blockchain terminology in English.<br><br>Now, I'm on the lookout for exciting opportunities to bring my unique perspective and dedication to a forward-thinking team. Let's build something amazing together!</p>
+<p align="left">I Make Blockchain and DeFi Obvious, Understandable, and Adoptable.<br><br>I turn confusion into conviction.<br><br>Most blockchain projects don’t fail because of technology. They fail because users, developers, investors, and sometimes even the team never truly understand why the product matters. My job is to make sure that never happens.<br><br>I build the understanding layer: clear explainers, documentation people actually read, learning programs that stick, mental models that spread on their own, and narratives that make complex systems feel obvious. If I don’t know something, I learn it. I am always sharpening my skills, refining my approach, and finding better ways to make complex ideas simple.<br><br>I’ve spent years as an educator building curricula for global corporations, creating technical content on blockchain and DeFi, and leading learning-focused initiatives. I speak technical and I speak human, and I ship whatever it takes to move the metrics that matter: retention, onboarding speed, community self-sufficiency, and fewer support tickets.<br><br>I’m not here to clock in and clock out. I’m here to own outcomes. If that means shipping a new tutorial before mainnet, rewriting docs for the third time, or jumping on a call with a confused whale at 11 p.m., it gets done. Clarity is a team sport, and I play to win.<br><br>I am looking for one team that is building something real and is tired of losing people to “It’s complicated.”<br><br>Education Lead, DevRel, Product Marketing, Narrative Design, Head of Learning, the title is irrelevant. Removing the understanding bottleneck is what matters.<br><br>If that’s your mission, we should talk.</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently working on technical content for <a href="https://www.cyfrin.io/" target="_blank">Cyfrin</a><br><br>- 🌱 I’m currently pushing Solidity, React, and Foundry<br><br>- 👯 I’m looking to collaborate on Web3 Projects<br><br>- 🤝 I’m looking for help with Networking & Continuous Development<br><br>- 👨‍💻 My portfolio is https://charliej.vercel.app/ <br><br>- 📝 I am currently writing articles as a project on https://fluentdev.vercel.app/<br><br>- 📫 How to reach me charliej.dev@outlook.com<br><br>- ⚡ Fun fact I have 2 cats!</p>
+<p align="left">- 🔭 I’m currently working on technical content for Cyfrin<br><br>- 🌱 I’m currently pushing Solidity, React, and Foundry<br><br>- 👯 I’m looking to collaborate on Web3 Projects<br><br>- 🤝 I’m looking for help with Networking & Continuous Development<br><br>- 👨‍💻 My portfolio is https://charliej.vercel.app/<br><br>- 📝 I am currently writing articles as a project on https://fluentdev.vercel.app/<br><br>- 📫 How to reach me charliej.dev@outlook.com</p>
 
 ###
 
@@ -72,32 +72,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=remix" height="35" alt="remix logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="35" alt="notion logo"  />
 </div>
-
-###
-
-<h3 align="left">My Solidity and Foundry Projects</h3>
-
-<a href='https://github.com/ChainlinkHackaton/SmartContracts' target="_blank">
-  <img
-    src="https://github.com/SupaMega24/SupaMega24/assets/138974329/473afe9c-a92f-4522-aac5-2b7b4d8fab38"
-    width="200"
-    height="200"
-  /> </a>
-
-<a href='https://github.com/SupaMega24/fantasy-team-vrf' target="_blank">
-  <img
-    src="https://github.com/SupaMega24/SupaMega24/assets/138974329/a5d84f36-d3d0-47f0-9182-d533384304c7"
-    width="200"
-    height="200"
-  /></a>
-
-<a href='https://github.com/SupaMega24/smart-contract-lottery' target="_blank">
-  <img
-    src="https://github.com/SupaMega24/SupaMega24/assets/138974329/73dee00f-ca52-44b0-a5a3-353229ba3c6d"
-    width="200"
-    height="200"
-  /></a>
 
 ###
 
@@ -122,3 +99,14 @@
 
 ###
 
+<h3 align="left">Commits on the Move!</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SupaMega24/SupaMega24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SupaMega24/SupaMega24/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SupaMega24/SupaMega24/output/pacman-contribution-graph.svg">
+</picture>
+
+###
